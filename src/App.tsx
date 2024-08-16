@@ -1,4 +1,4 @@
-import Header from "./components/classHeader";
+import Header from "./components/Header";
 
 const App = (): JSX.Element => {
   return (
